@@ -4,4 +4,4 @@
 
 </p>
 
-<h3 align="center"><a href="https://cazadecasa.xyz">Website</a> · <a href="https://twitter.com/cazadecasa">Twitter</a> · <a href="https://bsky.app/profile/cazadecasa.xyz">Bluesky</a> · <a href="https://www.threads.net/@cazadecasamedellin">Threads</a>  · <a href="https://www.facebook.com/profile.php?id=61566610873540">Facebook</a> · <a href="https://www.instagram.com/cazadecasamedellin">Instagram</a></h3>
+<h3 align="center"><a href="https://cazadecasa.xyz">Website</a> · <a href="https://twitter.com/cazadecasa">Twitter</a> · <a href="https://bsky.app/profile/cazadecasa.xyz">Bluesky</a> · <a href="https://www.threads.net/@cazadecasaxyz">Threads</a>  · <a href="https://www.facebook.com/cazadecasa">Facebook</a> · <a href="https://www.instagram.com/cazadecasaxyz">Instagram</a></h3>
